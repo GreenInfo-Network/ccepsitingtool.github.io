@@ -18,7 +18,21 @@
   * Santa Clara
   * Tuolumne
 * Add 15 Colorado Counties
-  * _TBD_
+  * Adams County
+  * Arapahoe County
+  * Boulder County
+  * Broomfield County
+  * Denver County
+  * Douglas County
+  * Eagle County
+  * El Paso County
+  * Garfield County
+  * Jefferson County
+  * La Plata County
+  * Larimer County
+  * Mesa County
+  * Pueblo County
+  * Weld County
 * Add 1 Texas county
   * Harris
 * Add 1 Arizona county
