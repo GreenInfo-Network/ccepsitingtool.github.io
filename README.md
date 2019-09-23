@@ -47,6 +47,9 @@
 [**Statement of Work**](https://docs.google.com/spreadsheets/d/1n2xjd8NqG7YRkqBNVyu_QlovyXPLEkr5euVlUJ74bbg/edit#gid=75779139)
 
 **Fileserver Path:** `P:\proj_a_d\CCEP\Vote Center Siting Tool`
+**Source Data and scripts from client:** `P:\proj_a_d\CCEP\Vote Center Siting Tool\code\`
+
+**Data Processing Repo:**: `TBD` *Stephen: This could be a good idea*
 
 ### Project Description
 
